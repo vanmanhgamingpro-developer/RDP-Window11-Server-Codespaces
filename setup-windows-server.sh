@@ -55,7 +55,7 @@ PASSWORD="@vanmangaming@2K@"
 # Không dùng lại key đã bị lộ trước đó.
 # ==============================================================
 
-TS_AUTH_KEY="tskey-auth-kCreZecqck11CNTRL-eACAGgQwWBdLz4iCWhw1Cde4U5EQFHJi"
+TS_AUTH_KEY="tskey-auth......"
 
 
 # ==============================================================
